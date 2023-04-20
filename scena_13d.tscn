@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bdmqj2ql3o0u4"]
+
+[ext_resource type="Script" path="res://scena_13d.cs" id="1_pdlw1"]
+
+[node name="scena13D" type="Node3D"]
+script = ExtResource("1_pdlw1")
