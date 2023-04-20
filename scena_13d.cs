@@ -11,5 +11,6 @@ public partial class scena_13d : Node3D
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
 	public override void _Process(double delta)
 	{
+		//fbfbfb sdc
 	}
 }
